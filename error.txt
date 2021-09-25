@@ -1,0 +1,8 @@
+Executing script: c:\Users\fabio\Documents\estudos\fabiolealsc\quest\fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "c:\Users\fabio\Documents\estudos\fabiolealsc\quest\fizzbuzz.py", line 6, in <module>
+    i = int(i.removeprefix('-'))
+ValueError: invalid literal for int() with base 10: ''
+
